@@ -1,9 +1,9 @@
-title: cmspushdemo1
+title: Dottor Sorriso
 baseurl: ""
 url: "https://cialdecompatibili-netizen.github.io"
 email:
 description: >-
-  Un sito Jekyll con CMS integrato, gestito da CMSPush.
+  Il dentista più pazzo di Roma. Cure serie, risate garantite.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -30,9 +30,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Il tuo nome"
+  name   : "Dottor Sorriso"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Una frase su di te."
+  bio    : "Dentista romano, un po' fuori di testa. Ti tolgo il dente e ti faccio ridere."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
