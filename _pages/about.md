@@ -5,6 +5,8 @@ permalink: /about/
 author_profile: true
 ---
 
-serra2 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Sono il Dottor Sorriso, dentista a Roma da più di vent'anni. Ho scelto questo lavoro perché volevo mettere le mani in bocca alla gente e farla pagare per questo.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Lo studio è serio quando serve — e quando non serve, non lo è per niente. Crediamo che una risata sia il miglior anestetico (ma usiamo anche il vero, tranquilli).
+
+Se hai paura del dentista, sei nel posto giusto. Se non hai paura, te la facciamo venire e poi te la togliamo. È il nostro metodo brevettato.
